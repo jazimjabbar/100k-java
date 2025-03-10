@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "java_20577c1e"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
